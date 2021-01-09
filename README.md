@@ -1,5 +1,5 @@
 # SysCalls
-### Programs written in `C` to automate tasks on large files.
+### Programs written in `C` to automate tasks on `large files`.
 
 -> For the first question :
 	1. gcc Q1.c
